@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fooder/static/css/main.7e126dbb.css",
+    "main.js": "/Fooder/static/js/main.540b591a.js",
+    "static/js/453.5567d74c.chunk.js": "/Fooder/static/js/453.5567d74c.chunk.js",
+    "index.html": "/Fooder/index.html",
+    "main.7e126dbb.css.map": "/Fooder/static/css/main.7e126dbb.css.map",
+    "main.540b591a.js.map": "/Fooder/static/js/main.540b591a.js.map",
+    "453.5567d74c.chunk.js.map": "/Fooder/static/js/453.5567d74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e126dbb.css",
+    "static/js/main.540b591a.js"
+  ]
+}
